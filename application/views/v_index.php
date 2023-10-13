@@ -23,7 +23,7 @@
             untuk menghitung luas dan keliling lingkaran, maka dapat memodelkan
             objek lingkaran sebagai kelas model.</p>
         <p align='justify'>Sebagai catatan, Semua model harus disimpan di
-            dalam folder application\models</p>
+            dalam folder application/models</p>
         <li>View</li>
         <p align='justify'>View merupakan bagian yang menangani halaman user
             interface atau halaman yang muncul pada user(pada browser). Tampilan
