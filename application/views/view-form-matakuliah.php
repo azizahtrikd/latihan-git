@@ -5,9 +5,9 @@
 </head>
 
 <body>
-    <?php echo validation_errors(); ?>
     <center>
-        <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
+        <form action="<?= base_url('Matakuliah/cetak'); ?>" method="post">
+            <?php echo validation_errors() ?>
             <table>
                 <tr>
                     <th colspan="3">
